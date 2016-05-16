@@ -1,6 +1,6 @@
-#Hinário nº 5 CCB em Lá (Oboé d'amore)
+#Hinário nº 5 CCB em Lá (oboé d'amore, clarinete soprano e clarone)
 
-Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Lá como o Oboé d'amore.
+Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Lá como o oboé d'amore, carinete soprano e clarone.
 O objetivo é disponbilizar, em formato digital, uma versão em lá do hinário original em dó.
 
 <h2>Novidades</h2>
@@ -20,6 +20,10 @@ Versões demonstrativas dos hinos podem ser encontradas no link:
 * Coros: 1 a 6
 
 Restante: 0
+
+<h2>Download</h2>
+
+* [Baixe o arquivo PDF clicando aqui](https://raw.githubusercontent.com/neneias/ccb-hinario-5-la/master/la/pdf/final.pdf)
 
 <h2>Condições de Uso</h2>
 
